@@ -6,5 +6,6 @@ Meteor bot is made for the public. The publicity of the bot is to make sure you 
 
 To view the Discord Terms Of Service, you can click [here](https://discord.com/terms). Discord ToS is important in the Discord App itself, anything in Discord and our bot relies on Discord ToS.
 
-```Meteor ToS coming soon...
+```bash
+Meteor ToS coming soon...
 ```
