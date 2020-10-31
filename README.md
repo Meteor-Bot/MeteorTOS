@@ -8,7 +8,7 @@ To view the Discord Terms Of Service, you can click [here](https://discord.com/t
 
 ## Meteor ToS & Usage
 
-<h1>Website Terms and Conditions of Use</h1>
+<h1>Bot & Website Terms and Conditions of Use</h1>
 
 <h2>1. Terms</h2>
 
