@@ -14,7 +14,7 @@ To view the Discord Terms Of Service, you can click [here](https://discord.com/t
 
 <p>By accessing this Website, accessible from https://web.egghead6969.repl.co/, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.</p>
 
-<h2>2. Ussage Of Meteor</h2>
+<h2>2. Usage Of Meteor</h2>
 
 <p>The Usage Of Meteor must be taken strict and serious as there could be lawful convictions towards your breakage of ToS. There aren't as many strict rules in our usage besides : Self harming, Suicidal, and more(common sense). Meteor is there to help and define the best bot globally!</p>
 
